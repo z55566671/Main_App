@@ -1,0 +1,11 @@
+{
+  "cmake.sourceDirectory": "/Users/asiadj/Desktop/01.台詮多功能人員管理系統開發專區/Main_App/attendance_theme/linux",
+  "yaml.schemas": {
+    "https://json.schemastore.org/pubspec.json": "file:///Users/asiadj/Desktop/01.ymh_MEMS_System/Main_App/attendance_theme/pubspec.yaml"
+  },
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    "stdexcept": "cpp",
+    "string": "cpp"
+  }
+}
